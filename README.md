@@ -1,6 +1,6 @@
-BitList and Book(s)
+# BitList and Book(s)
 
-Part 1: BitList Class
+## Part 1: BitList Class
 
 
 1. Created the BitList class
@@ -13,7 +13,7 @@ Create a new series of bits from a string that represents a binary number:
 -saved the data entered on self (that is, keep an internal representation of the data for each instance)
 
 
-Part 2: Books
+## Part 2: Books
 
 Used at least two books from project Gutenberg use file io and basic Python to manipulate the content of the books.
 
